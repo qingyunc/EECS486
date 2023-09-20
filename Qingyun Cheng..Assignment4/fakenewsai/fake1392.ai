@@ -1,0 +1,3 @@
+This statement is correct. In the context of RESTful web services, a resource is identified by a URI (Uniform Resource Identifier) and can have zero, one, or many HTTP request methods associated with it. These request methods include GET, POST, PUT, DELETE, and others, which are used to retrieve, create, update, or delete representations of the resource.
+
+The use of these request methods is based on the principles of the HTTP protocol, which provides a standardized way to interact with resources on the web. The specific set of request methods available for a particular resource depends on the intended functionality of the resource and the business requirements of the application.

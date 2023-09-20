@@ -1,0 +1,15 @@
+Here's an example Python class that describes a car:
+
+class Car:
+    def __init__(self, doors, seats, gas):
+        self.doors = doors
+        self.seats = seats
+        self.gas = gas
+    
+    def drive(self):
+        if self.gas > 0:
+            print("Driving...")
+            self.gas -= 1
+        else:
+            print("Out of gas.")
+In this class, we define a __init__ method that sets the initial values for the car's attributes of doors, seats, and gas. We also define a drive method that checks if the car has any gas left and prints a message indicating whether the car can drive or not. The drive method also subtracts 1 from the gas attribute each time it is called, simulating the car using up fuel while driving.

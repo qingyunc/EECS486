@@ -1,0 +1,33 @@
+The system of equations is:
+
+y = 3x - 4 (equation 1)
+
+45x - 12y = 23 (equation 2)
+
+To solve for x and y, we can use the substitution method.
+
+Step 1: Solve equation 1 for y.
+
+y = 3x - 4
+
+Step 2: Substitute y in equation 2 with the expression obtained in step 1.
+
+45x - 12(3x - 4) = 23
+
+Step 3: Simplify and solve for x.
+
+45x - 36x + 48 = 23
+
+9x = -25
+
+x = -25/9
+
+Step 4: Substitute x in equation 1 to find y.
+
+y = 3x - 4
+
+y = 3(-25/9) - 4
+
+y = -83/9
+
+Therefore, the solution to the system of equations is x = -25/9 and y = -83/9.

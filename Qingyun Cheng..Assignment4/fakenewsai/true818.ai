@@ -1,0 +1,4 @@
+To sort a list using a custom lambda function in Python, you can use the built-in sorted() function and pass in the list to be sorted as well as the lambda function to define the custom sorting criteria. Here's an example code snippet:
+my_list = [5, 1, 3, 8, 2]
+sorted_list = sorted(my_list, key=lambda x: x % 3) # sorts list by remainder of each element divided by 3
+print(sorted_list)

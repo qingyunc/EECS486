@@ -1,0 +1,7 @@
+OLL and PLL are two different stages in the Fridrich method, a popular method for solving the Rubik's cube.
+
+OLL stands for "Orientation of the Last Layer" and refers to the stage in the Fridrich method where the top layer edges and corners are oriented correctly. During OLL, the solver applies specific algorithms to get the correct orientation of the edges and corners on the last layer. There are 57 possible OLL cases in total, each requiring a different algorithm to solve.
+
+PLL stands for "Permutation of the Last Layer" and refers to the stage in the Fridrich method where the top layer edges and corners are permuted, or moved to their correct positions. During PLL, the solver applies specific algorithms to move the pieces in the correct positions. There are 21 possible PLL cases in total, each requiring a different algorithm to solve.
+
+In summary, OLL and PLL are two different stages in the Fridrich method of solving the Rubik's cube, with OLL focused on the orientation of the last layer and PLL focused on the permutation of the last layer.

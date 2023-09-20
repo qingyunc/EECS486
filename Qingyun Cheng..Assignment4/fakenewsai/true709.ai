@@ -1,0 +1,9 @@
+The total number of possible combinations of socks and shoes that George can choose is 4 x 4 = 16, since there are 4 choices for the color of socks and 4 choices for the color of shoes.
+
+To calculate the number of ways that George can choose a white pair of shoes and a pair of socks that are not white, we first need to determine how many pairs of non-white socks there are. Since there are 4 sets of socks in total, and one set is white, there are 3 sets of non-white socks. The number of ways to choose a pair of non-white socks is then 3 choose 2, which is equal to 3, since George needs to choose 2 socks out of 3 available sets.
+
+Once George has chosen the non-white socks, there is only one set of shoes (white) that he cannot choose from. Therefore, the number of ways that he can choose a white pair of shoes and a pair of socks that are not white is:
+
+3 (number of ways to choose non-white socks) x 1 (number of ways to choose white shoes) = 3
+
+So, the probability that George will choose a white pair of shoes and a pair of socks that are not white is 3/16.

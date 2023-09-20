@@ -1,0 +1,7 @@
+The SHA-256 algorithm is a cryptographic hash function that takes input data of arbitrary length and produces a fixed-size (256-bit) output known as a hash value. It is built using a set of logical operations, which include bitwise operations, modular arithmetic, and logical functions.
+Here are the steps involved in building the SHA-256 algorithm:
+Message Padding: The input message is first padded with a sequence of bits so that its length is a multiple of 512 bits (the block size of the SHA-256 algorithm).
+Initialization: A set of constant values (known as initial hash values) are set to be used in the subsequent rounds of the algorithm.
+Message Processing: The padded message is processed in 512-bit chunks, and a series of logical operations are performed on each chunk. These operations include bitwise logical functions such as AND, OR, and XOR, modular arithmetic operations, and circular shift operations.
+Finalization: Once all the message chunks have been processed, the final hash value is computed by combining the intermediate hash values produced during the message processing stage using a specific formula.
+Overall, the SHA-256 algorithm uses a series of complex mathematical operations to ensure that the resulting hash value is unique to the input data and extremely difficult to reverse-engineer. This makes it a useful tool for secure data authentication and verification.

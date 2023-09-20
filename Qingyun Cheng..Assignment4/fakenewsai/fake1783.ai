@@ -1,0 +1,7 @@
+If the game is Paper-Scissors, and you cannot play Rock, then the remaining options are Paper and Scissors.
+
+If your opponent plays Scissors, the best response would be to play Paper. Paper beats Scissors, so you would win the game.
+
+If your opponent plays Paper, then you can play Scissors, which would beat their Paper. However, your opponent might anticipate this move and play Scissors, in which case you would lose the game.
+
+Therefore, in Paper-Scissors, when your opponent plays Scissors, the best response is to play Paper.

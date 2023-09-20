@@ -1,0 +1,20 @@
+First, we need to find the average time each shopper spends in the checkout line. Since each shopper spends an average of 5 minutes in the checkout line, the average rate at which shoppers enter the checkout line is 12 shoppers per hour (60 minutes per hour divided by 5 minutes per shopper).
+Next, we can use Little's law to find the average number of shoppers in the checkout line at any one time:
+N = rT
+N = (12 shoppers per hour) x (T minutes)
+Since we want to know the number of shoppers waiting in line at any one time, we can set N equal to the unknown variable, let's call it x:
+x = (12 shoppers per hour) x (T minutes)
+We can solve for T by using the information given in the problem:
+
+During business hours, approximately 84 shoppers per hour make a purchase
+The average time each shopper spends in the store is 15 minutes
+So the average rate at which shoppers enter the store is 84/60 = 1.4 shoppers per minute, and we can use this rate to find T:
+r = 1.4 shoppers per minute
+N = 45 shoppers
+N = rT
+45 = (1.4 shoppers per minute) x T
+T = 32.14 minutes
+Now we can substitute this value of T into our equation for x:
+x = (12 shoppers per hour) x (32.14 minutes)
+x = 385.7 shoppers
+Therefore, on average, there are about 386 shoppers waiting in the checkout line at any time during business hours.

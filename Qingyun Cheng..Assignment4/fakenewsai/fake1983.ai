@@ -1,0 +1,1 @@
+In the game of Tic Tac Toe, there are 255,168 possible end game board states, which include all possible combinations of moves made by both players. Out of these end game states, the first player (also known as "X") can win in 131,184 states.

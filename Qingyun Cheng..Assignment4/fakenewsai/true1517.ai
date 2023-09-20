@@ -1,0 +1,5 @@
+The number of different depth first traversals for a given graph and starting node can vary depending on the structure of the graph.
+
+In general, a depth-first traversal of a graph visits the nodes of the graph in depth-first order, which means visiting a node and then recursively visiting all of its neighbors before backtracking.
+
+For a graph with N nodes, there are N! possible orderings of the nodes. However, not all of these orderings are valid depth-first traversals, as some may result in cycles or may not cover all nodes.

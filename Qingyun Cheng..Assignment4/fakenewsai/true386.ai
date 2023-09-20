@@ -1,0 +1,5 @@
+The first Windows operating system to support pre-emptive multitasking was Windows NT, which was released by Microsoft in 1993. Windows NT was a completely new operating system architecture designed for high-end workstations and servers, and it was not based on the same codebase as Microsoft's earlier operating systems such as Windows 3.1 or Windows 95.
+
+Windows NT was designed from the ground up to be a multi-user, multitasking operating system that could support complex enterprise computing environments. It was also the first version of Windows to support 32-bit applications and could address more than 4 GB of RAM.
+
+Windows NT was succeeded by Windows 2000, Windows XP, and subsequent versions of the Windows operating system, all of which continued to support pre-emptive multitasking and advanced multi-user features.

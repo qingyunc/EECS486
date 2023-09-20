@@ -1,0 +1,15 @@
+If 100 men can complete 100 tasks in 100 minutes, then the total amount of work done is 100 men x 100 tasks = 10,000 task-minutes.
+
+To find out how long 10 men would take to complete 10 tasks, we can use the formula:
+
+(number of men 1 x time 1 x tasks 1) = (number of men 2 x time 2 x tasks 2)
+
+Plugging in the values we have:
+
+(100 men x 100 minutes x 100 tasks) = (10 men x t minutes x 10 tasks)
+
+Solving for t, we get:
+
+t = (100 men x 100 minutes x 100 tasks) / (10 men x 10 tasks) = 1000 minutes
+
+Therefore, it would take 10 men 1000 minutes (or approximately 16.7 hours) to complete 10 tasks, assuming the tasks are of equal difficulty and that the rate of work is constant.

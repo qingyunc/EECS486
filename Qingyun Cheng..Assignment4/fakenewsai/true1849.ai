@@ -1,0 +1,7 @@
+Time complexity and space complexity are measures used to evaluate the performance of algorithms.
+
+Time complexity refers to the amount of time an algorithm takes to solve a problem as the size of the input grows. It is typically measured in terms of the number of operations performed by the algorithm as a function of the size of the input. For example, if an algorithm takes n^2 operations to solve a problem of size n, its time complexity is O(n^2).
+
+Space complexity refers to the amount of memory an algorithm needs to solve a problem as the size of the input grows. It is typically measured in terms of the amount of memory used by the algorithm as a function of the size of the input. For example, if an algorithm requires an array of size n to solve a problem of size n, its space complexity is O(n).
+
+Both time complexity and space complexity are important because they help us understand the performance of an algorithm and make informed decisions about which algorithm to use for a given problem. A more efficient algorithm with lower time and space complexity can provide significant benefits in terms of reduced computation time and lower memory usage. It can also be important in situations where resources like time or memory are limited, such as in embedded systems, mobile devices, or real-time systems.

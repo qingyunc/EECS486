@@ -1,0 +1,1 @@
+You can use the regular expression pattern r"(?<=[\d\s\W])[a-zA-Z]+(?=[\d\s\W])" to match all letters found between numbers or punctuation in a string.

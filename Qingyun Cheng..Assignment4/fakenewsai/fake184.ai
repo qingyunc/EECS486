@@ -1,0 +1,9 @@
+We can factor X^4 + 4 using the following steps:
+
+    Rewrite the expression as a sum of squares: X^4 + 4 = (X^4 + 2X^2 + 1) + 3
+    Rewrite the first three terms as a perfect square trinomial: X^4 + 2X^2 + 1 = (X^2 + 1)^2
+    Substitute this expression back into the original expression: X^4 + 4 = (X^2 + 1)^2 + 3
+
+Therefore, the factorization of X^4 + 4 is:
+
+X^4 + 4 = (X^2 + 1)^2 + 3

@@ -1,0 +1,9 @@
+If there are two ducks in front of a duck, two ducks behind a duck, and a duck in the middle, then there are a total of 5 ducks in the line.
+
+The line can be represented as follows:
+
+Duck - Duck - Duck - Duck - Duck
+
+There are two ducks in front of the middle duck, and two ducks behind the middle duck, so the middle duck is the third duck in the line.
+
+Therefore, there are two ducks in front of the middle duck, and two more ducks in front of those ducks, for a total of four ducks in front of the line.

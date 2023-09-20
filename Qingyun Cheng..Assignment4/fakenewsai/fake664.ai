@@ -1,0 +1,1 @@
+Stalin sort (also known as Gnome sort or Stupid sort) is a sorting algorithm that works by repeatedly swapping adjacent elements that are in the wrong order, similar to bubble sort, but with a more complex logic. It is not commonly used in practice, as it has a relatively slow worst-case time complexity of O(n^2).

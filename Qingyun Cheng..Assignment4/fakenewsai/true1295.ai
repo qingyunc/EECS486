@@ -1,0 +1,23 @@
+We can begin by trying to rewrite the expression (8^x)/(2^y) in terms of the variables x and y given in the equation 3x - y = 12.
+
+To do this, we can use the fact that 8 can be expressed as 2^3. Therefore, we can rewrite the expression as:
+
+(8^x)/(2^y) = (2^3)^x / (2^y)
+
+Using the rule for exponents, we can simplify this to:
+
+(8^x)/(2^y) = 2^(3x) / 2^y
+
+Now, we can substitute the equation 3x - y = 12 into this expression:
+
+(8^x)/(2^y) = 2^(3x) / 2^y = 2^(3x) / 2^(3x - 12)
+
+Simplifying the denominator using the rule for exponents, we get:
+
+(8^x)/(2^y) = 2^(3x) / 2^(3x) * 2^12
+
+Canceling out the common factor of 2^(3x), we get:
+
+(8^x)/(2^y) = 2^12
+
+Therefore, the value of (8^x)/(2^y) is 2^12 or 4096.

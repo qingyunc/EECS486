@@ -1,0 +1,26 @@
+In Python, you can write a for loop to iterate over a sequence of values using the following syntax:
+
+python
+Copy code
+for variable in sequence:
+    # statements to be executed for each value in the sequence
+Here, variable represents a variable that will take on the value of each item in the sequence, and the statements within the loop will be executed once for each item in the sequence.
+
+For example, here's a simple for loop that prints out the numbers from 0 to 4:
+
+python
+Copy code
+for i in range(5):
+    print(i)
+In this example, range(5) is a built-in Python function that returns a sequence of numbers from 0 to 4, and the loop prints out each number in the sequence.
+
+You can also use a for loop to iterate over elements in a list, tuple, or other iterable object. Here's an example that uses a for loop to print out the elements in a list:
+
+python
+Copy code
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+In this example, the for loop iterates over the elements in the fruits list and prints out each element.
+
+Note that the indentation is very important in Python, as it defines the block of code that should be executed within the loop. The statements within the loop should be indented one level deeper than the for statement.

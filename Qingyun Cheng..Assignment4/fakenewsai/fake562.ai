@@ -1,0 +1,21 @@
+If 4 cars can travel from Detroit to Chicago in 5 hours, then we can say that the rate of each car is:
+
+Rate = Distance / Time
+
+We don't know the distance between Detroit and Chicago, but we can still use this formula to calculate the rate of each car. Let's assume that the distance is d miles, then the rate of each car is:
+
+Rate of each car = d / 5
+
+Now, if 8 cars are traveling the same distance, we can use the same formula to calculate the time it would take for all 8 cars to arrive in Chicago:
+
+Time = Distance / Rate
+
+Time = d / (8 * (d / 5))
+
+Simplifying the equation:
+
+Time = (5 * d) / (8 * d)
+
+Time = 0.625 hours or 37.5 minutes
+
+Therefore, it would take 8 cars approximately 37.5 minutes to reach Chicago from Detroit, assuming the same distance and travel conditions as the 4 cars that took 5 hours.

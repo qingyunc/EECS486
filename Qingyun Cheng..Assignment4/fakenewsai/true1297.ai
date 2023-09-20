@@ -1,0 +1,27 @@
+To find the average of x, y, and z, we need to add them up and divide by 3. We can express x, y, and z in terms of m using the given information:
+
+x = (m + 9) / 2
+
+y = (2m + 15) / 2
+
+z = (3m + 18) / 2
+
+Now, we can find the sum of x, y, and z:
+
+x + y + z = [(m + 9) / 2] + [(2m + 15) / 2] + [(3m + 18) / 2]
+
+Simplifying and factoring out the common factor of 1/2, we get:
+
+x + y + z = (1/2) * (m + 2m + 3m + 9 + 15 + 18)
+
+x + y + z = (1/2) * (6m + 42)
+
+x + y + z = 3m + 21
+
+Finally, we can find the average of x, y, and z by dividing by 3:
+
+(x + y + z) / 3 = (3m + 21) / 3
+
+(x + y + z) / 3 = m + 7
+
+Therefore, the average of x, y, and z in terms of m is m + 7.

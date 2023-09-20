@@ -1,0 +1,25 @@
+The kinetic energy of an object is given by the equation:
+
+KE = 1/2 mv^2
+
+where m is the mass of the object and v is its velocity.
+
+For the truck, the mass is 20,000 kg and the velocity is 25 km/hr, which we need to convert to m/s:
+
+25 km/hr = 25,000 m/hr = 6,944.4 m/s
+
+Using the equation for kinetic energy, we can find the kinetic energy of the truck:
+
+KE_truck = 1/2 (20,000 kg) (6,944.4 m/s)^2 = 4.86 x 10^8 J
+
+To find the velocity of the car that has the same kinetic energy, we can set the kinetic energy of the car equal to the kinetic energy of the truck and solve for v:
+
+1/2 (1000 kg) v^2 = 4.86 x 10^8 J
+
+v^2 = (2 x 4.86 x 10^8 J) / 1000 kg
+
+v^2 = 9.72 x 10^5 m^2/s^2
+
+v = sqrt(9.72 x 10^5 m^2/s^2) = 986.8 m/s
+
+Therefore, the car would need to travel at a velocity of approximately 986.8 m/s (or about 3,551 km/hr) to have the same kinetic energy as the truck.

@@ -1,0 +1,7 @@
+K-means is a popular unsupervised clustering algorithm used to partition a dataset into K clusters based on the similarity of the data points. The basic mechanism of K-means can be summarized in the following steps:
+
+Choose the number of clusters K that you want to create.
+Initialize K random centroids (a centroid is the mean of the data points in a cluster).
+Assign each data point to the nearest centroid based on the Euclidean distance between the data point and the centroid.
+Recalculate the centroids for each cluster by taking the mean of all the data points assigned to that cluster.
+Repeat steps 3 and 4 until the centroids no longer move (i.e., the algorithm converges).

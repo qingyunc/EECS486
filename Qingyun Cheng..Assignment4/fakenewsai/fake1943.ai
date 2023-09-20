@@ -1,0 +1,12 @@
+To calculate the future value (FV) of a continuous compounding interest problem with a present value (PV) of $3800, a rate of 6%, and a period of 5, we can use the formula:
+FV = PV * e^(r*t)
+where:
+PV = $3800 (present value)
+r = 6% (annual interest rate, expressed as a decimal)
+t = 5 (number of years)
+Using the formula, we get:
+FV = $3800 * e^(0.06 * 5)
+FV = $3800 * e^(0.3)
+FV = $3800 * 1.34986
+FV = $5135.98
+Therefore, the future value of the investment after 5 years at a continuous compounding interest rate of 6% would be approximately $5135.98.

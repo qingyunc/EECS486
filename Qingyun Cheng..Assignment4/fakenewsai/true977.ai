@@ -1,0 +1,5 @@
+RAM stands for Random Access Memory, which is a type of computer memory that provides temporary storage for data that the CPU (Central Processing Unit) can access quickly. The 2400 MHz refers to the speed at which your RAM operates, also known as the memory clock speed.
+
+MHz stands for Megahertz, which is a unit of frequency that represents one million cycles per second. In the case of RAM, the memory clock speed indicates how many times per second the memory can be accessed by the CPU.
+
+In other words, a RAM with a clock speed of 2400 MHz means that it can be accessed 2.4 billion times per second. The higher the clock speed, the faster the RAM can deliver data to the CPU, which can result in improved system performance for certain types of tasks that require a lot of memory bandwidth, such as gaming or video editing.

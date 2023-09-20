@@ -1,0 +1,19 @@
+Assuming that the speed of the cars is constant throughout the trip, we can use the fact that distance is equal to rate times time (d = rt) to solve this problem.
+
+Let's call the distance between San Francisco and San Jose "d". We know that 2 cars can travel this distance in 4 hours, so their combined rate is:
+
+r = d / t = d / 4
+
+Now we want to find out how long it would take 4 cars to travel the same distance. Since the distance is the same, we can use the same rate:
+
+r = d / t
+
+But now we have 4 cars instead of 2, so the rate is doubled:
+
+2r = d / t
+
+Solving for t, we get:
+
+t = d / 2r = d / (2 * d / 4) = 2 hours
+
+Therefore, it would take 4 cars 2 hours to get from San Francisco to San Jose.

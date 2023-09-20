@@ -1,0 +1,9 @@
+ If 4 cars travel from Chicago to Ann Arbor in 2 hours, we can assume that they all traveled at the same speed. Let's call this speed "x".
+
+Now, to find out how long it would take for 8 cars to travel the same distance, we can use the formula:
+
+time = distance / speed
+
+Since the distance remains constant, we can assume that the time taken is directly proportional to the number of cars. Therefore, if 4 cars take 2 hours to travel the distance, then 8 cars would take half the time, or 1 hour, to cover the same distance at the same speed.
+
+Thus, 8 cars would take 1 hour to travel from Chicago to Ann Arbor, assuming they all travel at the same speed as the 4 cars did.

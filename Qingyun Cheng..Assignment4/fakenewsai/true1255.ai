@@ -1,0 +1,5 @@
+In topology, an open set is a set of points in a topological space that satisfies certain properties. Specifically, an open set is a set U such that for every point x in U, there exists a neighborhood of x that is contained entirely within U.
+
+More formally, a set U is open in a topological space X if for every point x in U, there exists an open set V such that x is an element of V, and V is a subset of U. This means that every point in an open set has some "wiggle room" around it where it can move within the set without leaving the set.
+
+The concept of an open set is fundamental to the study of topology, as it is used to define many other important concepts, such as continuous functions, compactness, and connectedness. In fact, the definition of a topological space itself is based on the notion of open sets: a topological space is a set X together with a collection of open sets that satisfy certain axioms, such as containing X and the empty set, being closed under finite intersections and arbitrary unions, and having complement sets that are closed.

@@ -1,0 +1,7 @@
+False.
+
+Static variables are not allocated on the stack. Instead, they are allocated in a separate region of memory known as the data segment or static memory.
+
+The data segment is a region of memory that stores global and static variables, which are variables that have a lifetime that extends throughout the entire execution of the program. Unlike stack memory, which is allocated and deallocated dynamically during the execution of a program, the data segment is allocated before the program starts executing and remains allocated until the program terminates.
+
+Variables allocated on the stack are local variables, which have a lifetime that is tied to the execution of a specific function or block of code. The stack is a region of memory that is dynamically allocated and deallocated as functions are called and return.

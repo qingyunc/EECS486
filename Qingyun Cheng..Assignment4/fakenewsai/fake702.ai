@@ -1,0 +1,33 @@
+Let's denote the first term of the arithmetic sequence as "a", and the common difference as "d". Then, we know that:
+
+The 6th term is a + 5d = 8
+The 10th term is a + 9d = 13
+We can use these equations to solve for "a" and "d" as follows:
+
+a + 5d = 8 (equation 1)
+a + 9d = 13 (equation 2)
+
+Subtracting equation 1 from equation 2, we get:
+
+4d = 5
+
+So, d = 5/4. Substituting this value back into equation 1, we get:
+
+a + 5(5/4) = 8
+
+Simplifying, we get:
+
+a = 3/4
+
+Therefore, the first four terms of the arithmetic sequence are:
+
+a1 = 3/4
+a2 = 3/4 + 5/4 = 2
+a3 = 2 + 5/4 = 9/4
+a4 = 9/4 + 5/4 = 7/2
+
+The sum of these terms is:
+
+a1 + a2 + a3 + a4 = (3/4) + 2 + (9/4) + (7/2) = 11
+
+Therefore, the sum of the first 4 terms of the arithmetic sequence is 11.

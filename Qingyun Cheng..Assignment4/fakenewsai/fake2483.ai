@@ -1,0 +1,29 @@
+To find the height of the screen, we need to use the Pythagorean theorem, which states that in a right triangle, the square of the length of the hypotenuse (the diagonal of the screen) is equal to the sum of the squares of the other two sides (the width and height of the screen).
+
+Let's represent the width and height of the screen as "w" and "h", respectively. We know that the aspect ratio of the screen is 16:10, which means that the width is 16x and the height is 10x, where "x" is some constant factor. We don't know the exact value of "x", but we don't need it to find the height.
+
+Using the Pythagorean theorem, we have:
+
+diagonal^2 = width^2 + height^2
+
+Substituting the values we know, we get:
+
+14^2 = (16x)^2 + (10x)^2
+
+Simplifying, we get:
+
+196 = 256x^2 + 100x^2
+
+296x^2 = 196
+
+x^2 = 196/296
+
+x^2 = 0.66216
+
+Taking the square root of both sides, we get:
+
+x = 0.8137
+
+Now we can find the height by multiplying the aspect ratio factor by the width. Thus, the height is:
+
+h = 10x = 10(0.8137) = 8.137 inches (approximately)

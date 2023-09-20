@@ -1,0 +1,7 @@
+To find the last 5 decimal digits of 234235346256, we can take the number modulo 10^5.
+
+The modulo operation returns the remainder after division, so if we divide 234235346256 by 10^5, the remainder will be the last 5 decimal digits of the number.
+
+234235346256 % 10^5 = 53462
+
+Therefore, the last 5 decimal digits of 234235346256 are 53462.

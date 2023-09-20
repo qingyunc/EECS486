@@ -1,0 +1,7 @@
+To solve the boolean expression "true and not true or true", we need to follow the order of operations, which is parentheses first, then not, then and, and finally or. However, since there are no parentheses or not operators in this expression, we only need to evaluate the and and or operators from left to right.
+
+The expression "true and not true" evaluates to false, because the statement "not true" means false, so "true and false" is false.
+
+Then, we can evaluate "false or true", which evaluates to true, because at least one of the operands is true.
+
+Therefore, the final result of the boolean expression "true and not true or true" is true.

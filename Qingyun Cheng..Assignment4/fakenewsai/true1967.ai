@@ -1,0 +1,17 @@
+Web crawlers, also known as spiders or bots, are automated programs that systematically browse websites to gather information. While web crawling can be useful for data gathering and indexing, it can also have negative consequences if not done responsibly. To ensure that web crawlers are ethical and respectful of websites, they should follow the following rules:
+
+1. Respect robots.txt: This is a file that instructs crawlers which parts of a website can and cannot be accessed. Crawlers should abide by the rules outlined in this file.
+
+2. Crawl at a reasonable rate: Crawlers should not overload a website's server by sending too many requests too quickly. This can slow down the website and disrupt user experience. A reasonable rate is typically no more than one request per second.
+
+3. Identify themselves: Crawlers should identify themselves with a user agent string in the HTTP header so that website administrators can identify them.
+
+4. Do not scrape copyrighted content: Crawlers should not scrape copyrighted content or personal information without permission.
+
+5. Follow URL rules: Crawlers should only follow links that are relevant and allowed by the website. Crawlers should also not follow infinite loops or dead links.
+
+6. Do not modify website content: Crawlers should not modify website content in any way.
+
+7. Respect website policies: Crawlers should respect the policies outlined by a website, such as terms of service, privacy policies, and copyright policies.
+
+By following these rules, web crawlers can ensure that they are ethical and respectful of websites.

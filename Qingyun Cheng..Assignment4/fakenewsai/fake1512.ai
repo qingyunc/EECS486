@@ -1,0 +1,10 @@
+Yes, the string 'abc' can be derived from the given context-free grammar.
+
+The derivation is as follows:
+
+S → aT (using S → aT)
+→ abS (using T → bS)
+→ abcV (using S → cS)
+→ abc (using V → a)
+
+Therefore, 'abc' can be derived from the given context-free grammar.

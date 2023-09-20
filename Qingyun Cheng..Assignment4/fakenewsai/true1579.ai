@@ -1,0 +1,3 @@
+Yes, multiplication on natural ordinals (i.e., finite ordinals) preserves commutativity. That is, for any two natural numbers m and n, we have:
+m * n = n * m
+This property can be easily proved using the distributive property of multiplication over addition and the commutativity of addition.

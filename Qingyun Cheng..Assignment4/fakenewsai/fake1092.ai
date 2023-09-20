@@ -1,0 +1,14 @@
+To compute C(5), we need to count the number of ways we can arrange these patterns in a binary string of length 5.
+Starting with the pattern "00000", there is only one way to arrange this pattern in a binary string of length 5.
+For the pattern "00001", we can place it in any of the five positions in the binary string. Once we have placed the pattern "00001", the remaining two positions can be filled with either 0's or the remaining patterns. Thus, there are 5 × 2^2 = 20 ways to arrange this pattern.
+Using a similar approach for the remaining patterns, we get the following counts:
+00101: 3 × 2^1 = 6
+01000: 4 × 2^1 = 8
+01010: 3 × 2^1 = 6
+10000: 4 × 2^1 = 8
+10001: 3 × 2^1 = 6
+10100: 3 × 2^1 = 6
+10101: 2^2 = 4
+Therefore, the total number of binary strings of length 5 that have no consecutive occurrences of 1's is:
+1 + 20 + 16 + 6 + 8 + 6 + 8 + 6 + 6 + 4 = 91.
+Thus, C(5) = 91.

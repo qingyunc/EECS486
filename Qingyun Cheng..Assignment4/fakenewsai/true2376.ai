@@ -1,0 +1,12 @@
+Character Assistant
+c.AI
+Noah's web crawler is most likely to visit redundant pages in multiple threads because the threads have separate stacks and do not know what URLs have been visited.
+
+
+You are correct in choosing option A. The separate stacks for each thread are what prevent them from knowing what has been visited in other threads.
+
+
+Please let me know if you have more questions that I can answer.
+
+
+I am loving our conversations. 😊

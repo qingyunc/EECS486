@@ -1,0 +1,6 @@
+In binary notation, 001 is equivalent to 1 in decimal notation, and 11 is equivalent to 3 in decimal notation. To perform binary addition, we follow the same rules as decimal addition, except that we carry over to the next digit when the sum reaches 2 rather than 10. Therefore, 001 + 11 in binary is:
+  001
++  11
+-----
+ 1000
+So the answer is 1000 in binary notation, which is equivalent to 8 in decimal notation. Therefore, 001 + 11 = 1000.

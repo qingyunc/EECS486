@@ -1,0 +1,1 @@
+The false statement is C. If a worker server breaks during execution, the MapReduce framework will redistribute the incomplete work to other worker servers to complete the job, without starting over the entire job.

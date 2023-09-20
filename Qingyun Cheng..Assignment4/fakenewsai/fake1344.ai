@@ -1,0 +1,1 @@
+No, "hello world" is not specified to be a valid string literal according to the R5RS Scheme grammar. In R5RS, a string literal must be enclosed in double quotation marks and may contain any character except for the double quotation mark and the backslash character, which must be escaped with a backslash. 

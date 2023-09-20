@@ -1,0 +1,14 @@
+Yes, exponentiation is associative.
+
+In mathematics, associativity means that the way you group the operations does not affect the result. That is, if a, b, and c are real numbers, then:
+
+(a^b)^c = a^(b^c)
+
+This property holds true for all real numbers a, b, and c. Therefore, exponentiation is associative.
+
+For example, let's take a = 2, b = 3, and c = 4. Then:
+
+(2^3)^4 = 8^4 = 4096
+2^(3^4) = 2^81 = 2417851639229258349412352
+
+As you can see, the order in which you perform the operations does not affect the result.

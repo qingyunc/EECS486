@@ -1,0 +1,25 @@
+To solve for b in the equation 101/38^b = 49/56^b, we can start by cross-multiplying to get rid of the fractions:
+
+css
+Copy code
+101 * 56^b = 49 * 38^b
+Next, we can isolate the term with b on one side of the equation by dividing both sides by 38^b:
+
+css
+Copy code
+101 * (56/38)^b = 49
+Simplifying the left-hand side by dividing 56 by 38, we get:
+
+css
+Copy code
+101 * (1.47368421)^b = 49
+Finally, we can solve for b by taking the logarithm of both sides of the equation, using the natural logarithm (ln):
+
+scss
+Copy code
+ln(101 * (1.47368421)^b) = ln(49)
+ln(101) + b * ln(1.47368421) = ln(49)
+b * ln(1.47368421) = ln(49) - ln(101)
+b = (ln(49) - ln(101)) / ln(1.47368421)
+b ≈ -0.155729057
+Therefore, b is approximately equal to -0.155729057 when the equation 101/38^b = 49/56^b is satisfied.

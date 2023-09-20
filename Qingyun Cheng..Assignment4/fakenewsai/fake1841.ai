@@ -1,0 +1,11 @@
+In Unity, you can set the priority of any state transition by adjusting the value of the "Priority" parameter for that transition. The priority determines the order in which the transitions are evaluated when multiple transitions are valid at the same time.
+
+To set the priority of a state transition, follow these steps:
+
+Open the Animator window by clicking on the "Window" menu and selecting "Animator".
+Select the Animator controller that contains the state machine you want to modify.
+Click on the transition arrow between the two states you want to modify.
+In the Inspector window, locate the "Conditions" section.
+Locate the "Priority" parameter in the "Conditions" section.
+Adjust the value of the "Priority" parameter to the desired value. Higher values indicate higher priority.
+Note that if multiple transitions have the same priority, the transition that was created first will be evaluated first. If you want more control over the order in which transitions are evaluated, you can use the "Has Exit Time" and "Exit Time" parameters to specify when a transition should be evaluated.

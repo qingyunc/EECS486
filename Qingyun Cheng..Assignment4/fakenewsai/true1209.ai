@@ -1,0 +1,7 @@
+Areal interpolation is a mathematical technique used to estimate the value of a variable at a location where it has not been directly measured, by combining information from neighboring locations where the variable has been measured.
+
+In areal interpolation, the study area is divided into smaller regions, each of which has a measured value of the variable of interest. These regions are usually referred to as "source" or "input" regions. The values within each source region are assumed to be constant, and the objective is to estimate the value of the variable at a "target" or "output" location, which lies outside of the source regions.
+
+There are several methods for areal interpolation, including inverse distance weighting, kriging, and spline interpolation. Each method has its strengths and weaknesses and is suited to different types of data and study areas.
+
+Areal interpolation is widely used in various fields, such as geography, ecology, environmental science, and remote sensing, to estimate the value of a variable at a location where it has not been directly measured.

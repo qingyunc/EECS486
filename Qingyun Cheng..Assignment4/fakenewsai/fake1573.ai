@@ -1,0 +1,4 @@
+No, a well-founded relation obeying trichotomy is not necessarily a well-order.
+A well-order is a total order in which every non-empty subset has a least element.
+While a well-founded relation with trichotomy is a total order, it does not necessarily have the property that every non-empty subset has a least element.
+For example, the set of all real numbers with the usual less-than relation is a total order obeying trichotomy but is not a well-order, as the set of all negative real numbers does not have a least element.

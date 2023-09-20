@@ -1,0 +1,3 @@
+If you have a six-sided dice (assuming it is fair and unbiased), the probability of rolling a 1 on any given roll is 1/6. Since each roll of the dice is independent of any previous or future rolls, the probability of rolling two 1s in a row is simply the product of the probabilities of rolling a 1 twice:
+Probability of rolling two 1s in a row = (1/6) x (1/6) = 1/36
+Therefore, the probability of rolling two 1s in a row with a fair six-sided dice is 1/36 or approximately 0.028 or 2.8%.

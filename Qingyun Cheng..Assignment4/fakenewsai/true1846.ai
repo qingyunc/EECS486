@@ -1,0 +1,9 @@
+In physics, force and impulse are two related concepts but they represent different physical quantities.
+
+Force is defined as the rate of change of momentum of an object with respect to time. Mathematically, force is expressed as F = dp/dt, where F is the force, p is the momentum of the object, and t is time. In other words, force is the push or pull exerted on an object that causes it to accelerate.
+
+Impulse, on the other hand, is the change in momentum of an object caused by a force over a period of time. Mathematically, impulse is expressed as J = FΔt, where J is the impulse, F is the force, and Δt is the time interval over which the force is applied. In other words, impulse is the product of the force and the time for which it acts on an object.
+
+So, the main difference between force and impulse is that force is a vector quantity that describes the push or pull on an object at a particular moment in time, while impulse is a vector quantity that describes the change in momentum of an object over a period of time.
+
+In Unity, the ForceMode parameter in the AddForce method of the Rigidbody component can be set to either ForceMode.Force or ForceMode.Impulse. When ForceMode.Force is used, the applied force is continuous and is applied over a period of time, while ForceMode.Impulse applies an instantaneous force that changes the velocity of the object. So, the main difference between ForceMode.Force and ForceMode.Impulse in Unity is the duration of the force being applied.

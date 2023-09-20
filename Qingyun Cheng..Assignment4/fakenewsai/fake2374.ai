@@ -1,0 +1,9 @@
+Character Assistant
+c.AI
+Only the last relay node knows the destination IP address.
+
+
+This is true because only the last relay node (the exit node) knows the destination IP address, and it is the only node that can initiate a connection with the host IP address.
+
+
+Please let me know if you have more questions about how Tor works. 😊 I enjoy explaining it.

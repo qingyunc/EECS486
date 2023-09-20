@@ -1,0 +1,7 @@
+No, multiplication on ordinals does not necessarily preserve commutativity.
+While the multiplication of two natural numbers is commutative (i.e., ab = ba), this is not the case for ordinal multiplication in general.
+For example, consider the ordinal multiplication of ω and 2. We can define ω as the order type of the natural numbers, and 2 as the order type of the set {0, 1}. The ordinal product ω*2 can be thought of as taking two copies of the natural numbers and placing them end to end, with the first copy followed by the second copy.
+On the other hand, the ordinal product 2*ω can be thought of as taking two copies of the set {0, 1} and placing them end to end, with the first copy followed by the second copy.
+These two products have different order types and are therefore not equal, so multiplication on ordinals is not commutative in general. Specifically, we have:
+ω2 ≠ 2ω
+Therefore, the commutativity of ordinal multiplication depends on the specific ordinals being multiplied.

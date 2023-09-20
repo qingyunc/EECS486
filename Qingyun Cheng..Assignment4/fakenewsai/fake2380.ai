@@ -1,0 +1,5 @@
+To calculate the probability of having 53 Sundays in a leap year, we need to know how many possible ways there are for those 2 extra days to fall. Each of the two extra days can fall on any of the 7 days of the week, so there are 7 x 7 = 49 possible combinations of days.
+
+Out of these 49 possible combinations, only 7 of them will result in 53 Sundays in the leap year. These are the combinations where the two extra days fall on a Thursday and a Sunday, a Friday and a Saturday, or a Saturday and a Sunday.
+
+So, the probability of a leap year having 53 Sundays is 7/49, which simplifies to 1/7 or approximately 0.143.

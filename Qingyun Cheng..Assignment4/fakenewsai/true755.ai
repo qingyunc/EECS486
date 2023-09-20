@@ -1,0 +1,1 @@
+Stored Cross-Site Scripting (XSS) is a type of security vulnerability that allows an attacker to inject malicious code, usually in the form of a script, into a web application's database or other storage mechanism. The injected code is then displayed to all users who access the affected page or application.

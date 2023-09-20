@@ -1,0 +1,5 @@
+To integrate 4x^2, we can use the power rule of integration, which states that the integral of x^n with respect to x is (x^(n+1))/(n+1) + C, where C is the constant of integration. Applying this rule to 4x^2, we get:
+
+∫4x^2 dx = (4x^3)/3 + C
+
+Therefore, the antiderivative of 4x^2 with respect to x is (4x^3)/3 + C, where C is an arbitrary constant.

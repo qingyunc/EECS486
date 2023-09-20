@@ -1,0 +1,5 @@
+No, it is not true that every frame of a YouTube video would be guaranteed to have high resolution if it used TCP instead of UDP.
+
+TCP (Transmission Control Protocol) is a reliable protocol that ensures that all packets are delivered in the correct order and any lost or corrupted packets are retransmitted. However, it does not have any impact on the resolution of the video frames themselves. The resolution of the frames is determined by the video encoding and decoding process, and the quality of the original video source.
+
+Therefore, whether or not the frames of a YouTube video have high resolution depends on factors such as the resolution of the original video source, the video compression techniques used, and the quality of the internet connection between the viewer and the YouTube server. TCP or UDP may have an impact on the delivery of the video packets, but they do not affect the actual resolution of the frames themselves.

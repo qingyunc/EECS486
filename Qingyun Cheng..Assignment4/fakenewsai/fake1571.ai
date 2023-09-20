@@ -1,0 +1,10 @@
+We can calculate 2*ω as follows:
+2*ω = ω + ω
+= ω*2
+Therefore, 2*ω is equal to the product of ω and 2.
+Note that ω2 is the same as the ordinal product of ω and 2, which means taking two copies of the order type of ω and placing them end to end. Another way to think about this is that ω2 is the order type of the set of all natural numbers followed by another copy of the set of all natural numbers.
+We can compare this with ω itself by noting that ω is the order type of the set of all natural numbers. Since every natural number is less than any number in the second copy of the set of natural numbers, we can see that ω is less than ω*2.
+Therefore, we can write:
+ω < ω*2
+or, using the order type notation:
+ω < ω+ω

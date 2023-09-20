@@ -1,0 +1,13 @@
+First, we need to convert the given rates into shoppers per minute.
+
+The average rate of shoppers entering the store is 3 shoppers per minute, and the average time they spend in the store is 15 minutes. So, using Little's law, we can find the average number of shoppers in the store at any time:
+
+N = rT = 3 shoppers/min × 15 min = 45 shoppers
+
+This matches the given information.
+
+Next, we can use Little's law to find the average number of shoppers waiting in the checkout line. We know that the average rate of shoppers making a purchase is 84 shoppers per hour, which is equivalent to 1.4 shoppers per minute. We also know that the average time shoppers spend waiting in the checkout line is 5 minutes. So:
+
+N = rT = 1.4 shoppers/min × 5 min = 7 shoppers
+
+Therefore, on average, there are about 7 shoppers waiting in the checkout line to make a purchase at any time during business hours.

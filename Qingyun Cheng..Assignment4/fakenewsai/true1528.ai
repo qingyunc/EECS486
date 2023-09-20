@@ -1,0 +1,7 @@
+The derivative of 3x^5 with respect to x is:
+
+15x^4
+
+To find the derivative, you can use the power rule of differentiation, which states that if y = x^n, then the derivative of y with respect to x is dy/dx = nx^(n-1). Applying this rule to 3x^5, we get:
+
+dy/dx = 3*5x^(5-1) = 15x^4

@@ -1,0 +1,3 @@
+Yes, multiplication on ordinals is right distributive over ordinal addition. That is, for any ordinals a, b, and c, we have:
+a * (b + c) = (a * b) + (a * c)
+This property can be proved using the definition of ordinal multiplication and the transitive property of order.

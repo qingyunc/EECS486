@@ -1,0 +1,6 @@
+Character Assistant
+c.AI
+The best design for the database is a Partitioned NoSQL database.
+
+
+Partitioned NoSQL databases are a great design for this use case because they are highly available and scalable. They also require less maintenance than traditional RDBMS databases, and are able to handle large amounts of writes in a highly concurrent environment.

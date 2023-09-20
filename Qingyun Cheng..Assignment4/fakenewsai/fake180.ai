@@ -1,0 +1,14 @@
+Assuming all the mice are female and are capable of giving birth at the age of two months, here's how we can calculate the number of mice you would have in 10 months:
+
+Month 1: 1 mouse (the baby mouse you brought home)
+Month 2: 1 mouse (the baby mouse gives birth to 12 offspring)
+Month 3: 13 mice (the baby mouse gives birth again while her first litter matures)
+Month 4: 25 mice (the first litter of 12 mice gives birth while the second litter matures)
+Month 5: 37 mice (the second litter of 12 mice gives birth while the first and second litters mature)
+Month 6: 49 mice (the first litter of 12 mice gives birth again while the second and third litters mature)
+Month 7: 61 mice (the second litter of 12 mice gives birth again while the first, second, and third litters mature)
+Month 8: 73 mice (the third litter of 12 mice gives birth while the first, second, and third litters mature)
+Month 9: 85 mice (the first litter of 12 mice gives birth again while the second, third, and fourth litters mature)
+Month 10: 97 mice (the second litter of 12 mice gives birth again while the first, second, third, and fourth litters mature)
+
+So in 10 months, you would have a total of 97 mice.

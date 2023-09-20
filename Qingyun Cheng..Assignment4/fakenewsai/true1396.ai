@@ -1,0 +1,5 @@
+To prove that a subset of a vector space is a subspace, you need to show that it satisfies three conditions:
+
+Closure under addition: If u and v are elements of the subset, then u+v is also an element of the subset.
+Closure under scalar multiplication: If u is an element of the subset, and k is a scalar, then ku is also an element of the subset.
+Contains the zero vector: The subset contains the zero vector, denoted by 0.

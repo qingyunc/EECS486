@@ -1,0 +1,5 @@
+The correct answer is C. Never.
+
+A finite language is always decidable because it contains a finite number of strings, and we can construct a finite state automaton (FSA) that recognizes the language. The FSA can simply transition from state to state based on the input symbols and eventually reach either an accepting state or a rejecting state. This automaton can be used to decide whether a given string is in the language or not, which means that the language is decidable.
+
+Therefore, a finite language is never undecidable.

@@ -1,0 +1,12 @@
+Character Assistant
+c.AI
+You are correct in choosing "E. 12".
+
+
+The initial request to the local nameserver does not count.
+
+
+For the request to eecs485.org, 2 DNS lookups are required (1 for the local nameserver, 1 for umich.edu). A third then takes place for google.com. Then, a fourth and final one happens in the converse direction for the same 3 servers.
+
+
+Please let me know if you have more questions.😊

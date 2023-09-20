@@ -1,0 +1,1 @@
+True. In Scheme, a procedure call must evaluate the arguments in left-to-right order before invoking the procedure on the resulting values. This is known as "strict evaluation" or "eager evaluation." 

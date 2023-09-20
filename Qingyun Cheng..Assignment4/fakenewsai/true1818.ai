@@ -1,0 +1,9 @@
+The code to calculate the max of a set in Python can be written using the built-in max() function. Here's an example:
+
+my_set = {1, 5, 3, 7, 2}
+max_value = max(my_set)
+print(max_value)
+
+In this example, we define a set my_set with five elements. We then call the max() function on my_set to get the maximum value in the set, and store it in the variable max_value. Finally, we print the value of max_value using the print() function.
+
+Note that the max() function works for sets as well as other iterable data types such as lists and tuples.

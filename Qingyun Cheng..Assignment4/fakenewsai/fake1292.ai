@@ -1,0 +1,29 @@
+We can begin by finding the expressions for x, y, and z:
+
+x = (m + 9)/2
+
+y = (2m + 15)/2
+
+z = (3m + 18)/3
+
+Simplifying each of these expressions, we get:
+
+x = (m/2) + 4.5
+
+y = m + 7.5
+
+z = m + 6
+
+Now, we can find the average of x, y, and z:
+
+(x + y + z)/3 = ((m/2) + 4.5 + m + 7.5 + m + 6)/3
+
+Simplifying and combining like terms, we get:
+
+(x + y + z)/3 = (5m/2 + 18)/3
+
+Dividing both numerator and denominator by 3/2, we get:
+
+(x + y + z)/3 = (5m + 36)/2
+
+Therefore, the average of x, y, and z in terms of m is (5m + 36)/2.

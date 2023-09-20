@@ -1,0 +1,19 @@
+If you want to change the physics settings for only one specific scene, you can create a new physics layer and assign the layer to the objects in the scene. Here are the steps to do that:
+
+Open the Main scene in Unity.
+
+Click on the "Edit" menu at the top of the screen and select "Project Settings."
+
+In the "Project Settings" window, select "Tags and Layers" from the left-hand menu.
+
+In the "Tags and Layers" settings, scroll down to the "User Layer" section and click on the "+" button to add a new layer. Name the new layer something like "MainPhysics" and set the layer value to a number that's not used by any other layers.
+
+Close the "Tags and Layers" settings window and select the objects in the Main scene that you want to apply the physics settings to.
+
+In the Inspector panel, click on the "Add Component" button and select "Physics" -> "Physics Layer" from the menu.
+
+In the "Physics Layer" component, set the layer to "MainPhysics".
+
+Now, any physics settings you apply to the "MainPhysics" layer in the "Project Settings" window will only affect the objects in the Main scene that are assigned to that layer.
+
+I hope this helps! Let me know if you have any further questions.

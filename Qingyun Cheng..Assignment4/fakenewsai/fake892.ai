@@ -1,0 +1,11 @@
+You can recreate the mkdir command in PowerShell with an alias using the New-Item cmdlet and the Set-Alias cmdlet. Here's an example:
+
+`Set-Alias mkdir New-Item -Option AllScope -ArgumentList @{ItemType='Directory'}`
+
+This will create a new alias called mkdir that points to the New-Item cmdlet with the -ItemType parameter set to "Directory". The -Option AllScope parameter ensures that the alias is available in all scopes, and the -ArgumentList parameter specifies the arguments to be passed to the New-Item cmdlet.
+
+After running this command, you can use the mkdir alias to create a new directory in the same way you would use the mkdir command in Linux:
+
+`mkdir "C:\path\to\directory"`
+
+This will create a new directory called directory in the path C:\path\to\ if it does not already exist. If the directory already exists, this command will not create a new directory and will not return an error.

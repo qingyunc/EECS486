@@ -1,0 +1,7 @@
+To create a new .txt file on Windows, follow these steps:
+Open Windows Explorer by pressing the Windows key + E on your keyboard, or by clicking the folder icon in the taskbar.
+Navigate to the location where you want to create the .txt file.
+Right-click on an empty area in the folder and select "New" from the context menu.
+Click on "Text Document" to create a new .txt file.
+Rename the file by typing a new name and changing the file extension from ".txt" to ".txt" (if necessary). Windows will ask you to confirm the file extension change - click "Yes" to confirm.
+Alternatively, you can create a new .txt file by opening Notepad (press the Windows key and type "Notepad" into the search bar), typing your text, and then selecting "Save As" from the File menu. In the Save As dialog box, select a location and name for your file, and then choose "Text Document (*.txt)" from the "Save as type" dropdown menu. Click "Save" to create your .txt file.
